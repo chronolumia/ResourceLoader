@@ -1,3 +1,3 @@
 ResourceLoader
 ==============
-dd
+Resource Loader zur Verwendung des Varnish-CDN Cache Servers
